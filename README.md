@@ -33,7 +33,7 @@ The CUCM Home Laboratory Configuration is designed for learning and experimentin
 
 ## Commands for Checking
 
-| **Steps**            |                                                                 |
+| **COMMANDS**            |                                                                 |
 | ----------------- | ------------------------------------------------------------------ |
 | **Check the Physical Ports** | ![](https://codaio.imgix.net/docs/F82M8FTNDh/blobs/bl-FcdHNq0DvB/b86de24426e9e93bc28aac0987a1660346a4dd2ec0936dd11b44f7babd3970c361b42b22bc3e0fb3794a7e4aede83c1447d7a4f1e98c55d3708cf1c9961ac95d6f78cc2653bbd9c91a556efdc1190dd8449011fc7284d87312570158f1650eb1e4e53a5f?fit=max&fm=webp&lossless=true)  |
 | **sh mac-address-table** | ![](https://codaio.imgix.net/docs/F82M8FTNDh/blobs/bl-3bU1F8R4au/dd69fe10ba8278ff2cab6546e0a867d5f67e0d0463c09dc5f9352842ba6d3923408d6b0a4403531db3209b618c817655dc50cafcb742829178728aa04f6139432aea6bc1f3dd4d9df03e49f8b37be7c3b76423b8c0e2ac7ad658f03da769b1212351757c?fit=max&fm=webp&lossless=true) |
