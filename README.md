@@ -222,3 +222,15 @@ application
   param queue-manager-debugs 1
   param number-of-hunt-grps 4
 ```
+
+
+## HOW TO FIX THE VOICE ANSWERING 
+
+```bash
+config t
+ application
+  no service callqueue flash:app-b-acd-2.1.2.2.tcl
+  no service rivanaa flash:app-b-acd-aa-2.1.2.2.tcl
+```
+ 
+
