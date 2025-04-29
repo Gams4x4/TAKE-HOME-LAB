@@ -43,7 +43,7 @@ The CUCM Home Laboratory Configuration is designed for learning and experimentin
 
 ## STEP BY STEP CONFIGURATIONS
 
-**Task1: Vlan Configuration**
+**✅Task1: Vlan Configuration**
 ```bash
 config t
 vlan 1
@@ -60,7 +60,7 @@ show vlan-switch
 
 ```
 
-**Task2: LAN/ethernet ports to VLAN Resigment/Transfer:**
+**✅Task2: LAN/ethernet ports to VLAN Resigment/Transfer:**
 ```bash
 configure terminal
 interface FastEthernet0/1/1 
@@ -80,7 +80,7 @@ show vlan-switch
 ```
 
 
-**Task3: SWITCH VLAN INTERFACE:**
+**✅Task3: SWITCH VLAN INTERFACE:**
 ```bash
 config t
 Int Vlan 1
@@ -103,7 +103,7 @@ end
 show ip interface brief
 ```
 
-**Task4: PREPARE THE DHCP SERVER:**
+**✅Task4: PREPARE THE DHCP SERVER:**
 ```bash
 config t
 ip dhcp Excluded-add 10.28.1.1 10.28.1.100
@@ -134,7 +134,7 @@ ip dhcp pool RIVANVOIP
    END
 ```
 
-**Task5: IP CAMERA CONFIGURATION:**
+**✅Task5: IP CAMERA CONFIGURATION:**
 ```bash
 config t
 ip dhcp pool SECURITYCAMERA
@@ -143,7 +143,7 @@ ip dhcp pool SECURITYCAMERA
  default-router 10.28.50.1
 ```
 
-**Task6: CALL CENTER SETUP:**
+**✅Task6: CALL CENTER SETUP:**
 ```bash
 config t   
 no telephony-service
@@ -182,7 +182,7 @@ Ephone 1
 end
 ```
 
-**Task7: AUTOMATIC VOICE ANSWER:**
+**✅Task7: AUTOMATIC VOICE ANSWER:**
 ```bash
 config t
 dial-peer voice 69 voip
@@ -224,7 +224,7 @@ application
 ```
 
 
-## HOW TO FIX THE VOICE ANSWERING 
+## ❗HOW TO FIX THE VOICE ANSWERING 
 
 ```bash
 config t
