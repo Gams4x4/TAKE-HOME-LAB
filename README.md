@@ -1,4 +1,4 @@
-
+![Logo](https://media.licdn.com/dms/image/C511BAQHuhA2qldrtsQ/company-background_10000/0/1583851212514/rivan_it_training_systems_corp_cover?e=2147483647&v=beta&t=umRaaUQ29GMaFpCWJFcvAwWCPqg8znpWb1n_LjoxUGA)
 # CUCM HOME LABORATORY CONFIGURATION
 
 The CUCM Home Laboratory Configuration is designed for learning and experimenting with Cisco Unified Communications Manager (CUCM) in a home lab setting. This configuration includes CUCM servers, IP phones, Access Points, and IP Camera to simulate a real-world VoIP (Voice over IP) environment. The lab setup allows users to practice tasks such as call routing, voicemail setup, user configuration, and troubleshooting in a controlled, hands-on environment. 
