@@ -1,6 +1,6 @@
 ![Logo](https://media.licdn.com/dms/image/C511BAQHuhA2qldrtsQ/company-background_10000/0/1583851212514/rivan_it_training_systems_corp_cover?e=2147483647&v=beta&t=umRaaUQ29GMaFpCWJFcvAwWCPqg8znpWb1n_LjoxUGA)
 
-# ❗PYTHON CODES <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" width="50">
+# <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" width="50"> PYTHON CODES <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" width="50">
 
 
 # ✅autowifi-json.py
